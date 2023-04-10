@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### My name is Skeeter!
+Here are some things [I do not understand about GitHub](https://github.com/skeetercathcart/PPHW4ThingsIDontUnderstand/blob/main/ThingsIDontUnderstand.md)
 <!--
 **skeetercathcart/skeetercathcart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
