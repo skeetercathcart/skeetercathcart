@@ -4,7 +4,7 @@
 A list of cool emojis: <br/>
 * :sunglasses:
 * :metal:
-* :smile_cat:
+* :smile_cat: <br />
 A funny:
 > “What’s the object-oriented way to get wealthy? Inheritance.” <br />
 
