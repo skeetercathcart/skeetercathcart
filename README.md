@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Skeeter!
-I am a Computer Science major, currently attending Minnesota State University, Mankato.
+I am a Computer Science major, recently graduated from Minnesota State University, Mankato.
 
 <!--
 **skeetercathcart/skeetercathcart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
